@@ -1,0 +1,9 @@
+Manufacturer=Audio-Technica
+PartNumber=PJ-320D
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2018-12-03 13:58:43
+Downloaded=2022-09-30 22:03:31
+3D=Y

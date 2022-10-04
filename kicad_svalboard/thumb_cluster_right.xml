@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\morga\Documents\GitHub\lalboard\kicad\thumb_cluster_right.kicad_sch</source>
+    <date>8/30/2022 10:54:17 AM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>thumb_cluster_right.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060895a6e</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060895a68</tstamps>
+    </comp>
+    <comp ref="IR1">
+      <value>IR908-7C-F</value>
+      <footprint>lalboard:IR908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/201407052136280483.pdf</datasheet>
+      <libsource lib="lalboard" part="IR908-7C-F" description="940nm Sidelooker IR LED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f96f62e</tstamps>
+    </comp>
+    <comp ref="IR2">
+      <value>IR908-7C-F</value>
+      <footprint>lalboard:IR908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/201407052136280483.pdf</datasheet>
+      <libsource lib="lalboard" part="IR908-7C-F" description="940nm Sidelooker IR LED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060612a12</tstamps>
+    </comp>
+    <comp ref="IR3">
+      <value>IR908-7C-F</value>
+      <footprint>lalboard:IR908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/201407052136280483.pdf</datasheet>
+      <libsource lib="lalboard" part="IR908-7C-F" description="940nm Sidelooker IR LED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000606135a5</tstamps>
+    </comp>
+    <comp ref="IR4">
+      <value>IR908-7C-F</value>
+      <footprint>lalboard:IR908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/201407052136280483.pdf</datasheet>
+      <libsource lib="lalboard" part="IR908-7C-F" description="940nm Sidelooker IR LED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006061505d</tstamps>
+    </comp>
+    <comp ref="IR5">
+      <value>IR908-7C-F</value>
+      <footprint>lalboard:IR908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/201407052136280483.pdf</datasheet>
+      <libsource lib="lalboard" part="IR908-7C-F" description="940nm Sidelooker IR LED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060615de1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x07</value>
+      <footprint>lalboard:JST_ZH_B7B-ZR_1x07_P1.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f95eca5</tstamps>
+    </comp>
+    <comp ref="PT1">
+      <value>PT908-7B-F</value>
+      <footprint>lalboard:PT908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/PT908-7B-F.pdf</datasheet>
+      <libsource lib="lalboard" part="PT908-7B-F" description="940nm Sidelooker Phototransistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f96f978</tstamps>
+    </comp>
+    <comp ref="PT2">
+      <value>PT908-7B-F</value>
+      <footprint>lalboard:PT908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/PT908-7B-F.pdf</datasheet>
+      <libsource lib="lalboard" part="PT908-7B-F" description="940nm Sidelooker Phototransistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000606129ff</tstamps>
+    </comp>
+    <comp ref="PT3">
+      <value>PT908-7B-F</value>
+      <footprint>lalboard:PT908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/PT908-7B-F.pdf</datasheet>
+      <libsource lib="lalboard" part="PT908-7B-F" description="940nm Sidelooker Phototransistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060613592</tstamps>
+    </comp>
+    <comp ref="PT4">
+      <value>PT908-7B-F</value>
+      <footprint>lalboard:PT908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/PT908-7B-F.pdf</datasheet>
+      <libsource lib="lalboard" part="PT908-7B-F" description="940nm Sidelooker Phototransistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006061504a</tstamps>
+    </comp>
+    <comp ref="PT5">
+      <value>PT908-7B-F</value>
+      <footprint>lalboard:PT908-7C-F</footprint>
+      <datasheet>https://www.everlight.com/file/ProductFile/PT908-7B-F.pdf</datasheet>
+      <libsource lib="lalboard" part="PT908-7B-F" description="940nm Sidelooker Phototransistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060615dce</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>56</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f993655</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060612a0c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006061359f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>180</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060615057</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>150</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/morga/Documents/GitHub/lalboard/kicad/thumb_cluster_right.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060615ddb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x07">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="lalboard" part="IR908-7C-F">
+      <description>940nm Sidelooker IR LED</description>
+      <docs>https://www.everlight.com/file/ProductFile/201407052136280483.pdf</docs>
+      <footprints>
+        <fp>LED*SideEmitter*Rectangular*W4.5mm*H1.6mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">IR908-7C-F</field>
+        <field name="Footprint">lalboard:IR908-7C-F</field>
+        <field name="Datasheet">https://www.everlight.com/file/ProductFile/201407052136280483.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lalboard" part="PT908-7B-F">
+      <description>940nm Sidelooker Phototransistor</description>
+      <docs>https://www.everlight.com/file/ProductFile/PT908-7B-F.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PT908-7B-F</field>
+        <field name="Footprint">lalboard:PT908-7C-F</field>
+        <field name="Datasheet">https://www.everlight.com/file/ProductFile/PT908-7B-F.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="lalboard">
+      <uri>C:\Users\morga\Documents\GitHub\lalboard\kicad/lalboard.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="IR1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IR2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IR3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IR4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IR5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="PT1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="PT2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="PT3" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="PT4" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="PT5" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="2" name="C1">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="PT1" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="3" name="C2">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="PT2" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="4" name="C3">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="PT3" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="5" name="C4">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="PT4" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="6" name="C5">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="PT5" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(IR1-Pad1)">
+      <node ref="IR1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(IR2-Pad1)">
+      <node ref="IR2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(IR3-Pad1)">
+      <node ref="IR3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(IR4-Pad1)">
+      <node ref="IR4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(IR5-Pad1)">
+      <node ref="IR5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

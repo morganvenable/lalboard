@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "lalboard")(type "KiCad")(uri "${KIPRJMOD}/lalboard.kicad_sym")(options "")(descr ""))
+  (lib (name "main_board-rescue")(type "KiCad")(uri "${KIPRJMOD}/main_board-rescue.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/promicro.kicad_sym")(options "")(descr ""))
+)

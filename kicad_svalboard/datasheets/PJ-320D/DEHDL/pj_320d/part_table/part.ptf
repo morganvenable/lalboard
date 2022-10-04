@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PJ_320D'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Audio-Technica", "PJ-320D" (!) = "", "PJ320D", "Other", "", "", "", "", "", "", "Phone Jack", "https://p.globalsources.com/IMAGES/PDT/SPEC/432/K1007154432.pdf", "5.6 mm"
+END_PART
+
+END.

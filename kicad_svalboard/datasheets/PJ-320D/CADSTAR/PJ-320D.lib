@@ -1,0 +1,20 @@
+.PJ-320D :1 ;Phone Jack
+PJ320D
+*STM J
+*NGS
+*PLB 2="2" 3="3" 4="4" 5="5"
+*MXP 6
+*DFN PJ-320D
+~!Manufacturer_Name (Audio-Technica)
+~!Manufacturer_Part_Number (PJ-320D)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://p.globalsources.com/IMAGES/PDT/SPEC/432/K1007154432.pdf)
+~!Height (5.6mm)
+~!3D_Model (PJ-320D)
+PJ-320D
+2.1!U 3.1!U 4.1!U 5.1!U 

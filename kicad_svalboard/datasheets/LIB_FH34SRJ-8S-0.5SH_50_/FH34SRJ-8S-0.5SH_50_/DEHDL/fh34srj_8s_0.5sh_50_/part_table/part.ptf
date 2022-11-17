@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FH34SRJ_8S_0.5SH_50_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hirose", "FH34SRJ-8S-0.5SH(50)" (!) = "", "FH34SRJ8S05SH50", "Other", "798-FH34SRJ8S05SH50", "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH34SRJ-8S-0.5SH50?qs=vnk2wBG9e16kawieRwL2EA%3D%3D", "", "", "", "", "FFC & FPC Connectors 8P SMT HORIZ ZIF AU 1MM HGHT .5MM PITCH", "https://datasheet.lcsc.com/szlcsc/Hirose-HRS-FH34SRJ-8S-0-5SH-50_C88372.pdf", "1.1 mm"
+END_PART
+
+END.

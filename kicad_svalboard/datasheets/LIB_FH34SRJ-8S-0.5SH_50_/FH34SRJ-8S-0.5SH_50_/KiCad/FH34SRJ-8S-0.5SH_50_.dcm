@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FH34SRJ-8S-0.5SH_50_
+D FFC & FPC Connectors 8P SMT HORIZ ZIF AU 1MM HGHT .5MM PITCH
+K
+F https://datasheet.lcsc.com/szlcsc/Hirose-HRS-FH34SRJ-8S-0-5SH-50_C88372.pdf
+$ENDCMP
+#
+#End Doc Library
